@@ -1,2 +1,7 @@
 test file 
 ssh-keygen -p -f ~/.ssh/id_ed25519
+
+ssh-keygen -t ed25519 -C waqaskhalid4748@gmail.com
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMCC+ROJkCwTE97vetVKSSgFRGZyMJ49V2fJ9JYu2YuL waqaskhalid4748@gmail.com
+
